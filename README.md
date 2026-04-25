@@ -98,6 +98,6 @@ Help users manage personal finances in a simple way
 
 👩‍💻 Author
 
-Nayab Agzal
+Nayab Afzal
 BS Software Engineering Student
 
